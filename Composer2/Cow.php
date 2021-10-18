@@ -7,10 +7,7 @@ class Cow
     private string $poop = '@@@';
     private string $udder = 'W';
 
-    public function say()
-    {
-
-    }
+   
 
     /**
      * @return string
